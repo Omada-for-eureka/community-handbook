@@ -22,7 +22,7 @@ Serveur : Omada for eureka — invitation : https://discord.gg/GzT3tE8MHD
 `partage-de-ressources`, `outils-et-logiciels`, `plugins-et-extensions`, `sites-et-plateformes`, `github-updates` (notifications GitHub filtrées)
 
 ### `03・APPRENTISSAGE`
-`programmation`, `web-dev`, `mobile-dev`, `cybersecurite`, `ia-et-data`, `devops-cloud`, `bases-de-donnees`
+`programmation`, `web-dev`, `mobile-dev`, `reseaux-systemes-telecom`, `cybersecurite`, `ia-et-data`, `devops-cloud`, `bases-de-donnees`
 
 ### `04・ACTIVITES`
 `calendrier`, `challenges`, `ateliers`, `hackathons`, `projets-communautaires`, `propositions-activites`
@@ -47,7 +47,7 @@ Ne pas créer trop de salons au départ : ajouter ceux qui manquent quand le bes
 8. `Contributeur`
 9. `Membre`
 10. `Nouveau membre` (si nécessaire)
-11. Rôles de domaine facultatifs : `Python`, `Web`, `Cybersecurity`, `AI & Data`, `DevOps`…
+11. Rôles de domaine facultatifs : `Python`, `Web`, `Mobile`, `Réseaux & Systèmes`, `Cybersecurity`, `AI & Data`, `DevOps`, `Databases`
 
 Les rôles de domaine identifient les centres d'intérêt et ne donnent aucune permission d'administration.
 

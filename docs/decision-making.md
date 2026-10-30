@@ -23,3 +23,4 @@
 | Date | Décision | Issue |
 | --- | --- | --- |
 | [DATE] | Création de l'organisation GitHub Omada-for-eureka et des 4 dépôts essentiels | — |
+| 2026-10-30 | Ajout du domaine « Réseaux, systèmes et télécoms » (catégorie resources, salon et rôle Discord) | — |
