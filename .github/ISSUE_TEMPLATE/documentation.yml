@@ -1,0 +1,29 @@
+name: Améliorer la documentation
+description: Corriger, clarifier ou compléter un document
+title: "[DOCS] "
+labels: ["documentation", "status: triage"]
+body:
+  - type: input
+    id: document
+    attributes:
+      label: Document concerné
+      placeholder: CONTRIBUTING.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Ce qui manque ou n'est pas clair
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposition
+      description: Texte ou changement proposé
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Contribution
+      options:
+        - label: Je peux préparer la Pull Request moi-même.

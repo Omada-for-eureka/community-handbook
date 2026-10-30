@@ -1,0 +1,41 @@
+name: Proposition
+description: Proposer un changement de règle, de rôle, d'organisation ou d'outil
+title: "[PROPOSAL] "
+labels: ["enhancement", "status: triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Les propositions structurantes suivent le processus décrit dans [docs/decision-making.md](https://github.com/Omada-for-eureka/community-handbook/blob/main/docs/decision-making.md).
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexte
+      description: Quel besoin ou problème motive cette proposition ?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposition
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives envisagées
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Qui est concerné ? Quels documents, dépôts ou salons faut-il modifier ?
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type de décision
+      options:
+        - Opérationnelle
+        - Structurante
+        - Majeure
+    validations:
+      required: true

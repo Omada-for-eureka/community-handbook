@@ -1,0 +1,27 @@
+name: Signaler un problème
+description: Signaler un problème technique, une erreur ou un lien cassé
+title: "[BUG] "
+labels: ["bug", "status: triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description du problème
+      description: Qu'est-ce qui ne fonctionne pas ?
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Emplacement
+      description: Fichier, page ou lien concerné
+      placeholder: docs/github-guide.md
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportement attendu
+  - type: textarea
+    id: context
+    attributes:
+      label: Informations complémentaires
+      description: Captures d'écran, étapes pour reproduire… Ne jamais inclure de secret ni de donnée personnelle.

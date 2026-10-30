@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Proposer une ressource
+    url: https://github.com/Omada-for-eureka/resources/issues/new/choose
+    about: Les ressources se proposent dans le dépôt resources.
+  - name: Proposer une activité
+    url: https://github.com/Omada-for-eureka/activities/issues/new/choose
+    about: Les activités se proposent dans le dépôt activities.
+  - name: Proposer un projet
+    url: https://github.com/Omada-for-eureka/community-projects/issues/new/choose
+    about: Les projets se proposent dans le dépôt community-projects.
+  - name: Signaler une vulnérabilité
+    url: https://github.com/Omada-for-eureka/community-handbook/blob/main/SECURITY.md
+    about: Ne jamais signaler une faille dans une Issue publique.
