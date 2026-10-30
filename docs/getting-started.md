@@ -12,7 +12,7 @@ Bienvenue ! Voici les étapes pour trouver ta place.
 1. Lire `#reglement`.
 2. Te présenter dans `#presentations` (prénom ou pseudo, domaines d'intérêt, niveau, ce que tu veux apprendre).
 3. Lire `#comment-participer`.
-4. Choisir tes rôles de domaine (Python, Web, Cybersecurity, AI & Data, DevOps…).
+4. Choisir tes rôles de domaine (Python, Web, Mobile, Réseaux & Systèmes, Cybersecurity, AI & Data, DevOps, Databases).
 
 Détails : [discord-guide.md](discord-guide.md).
 

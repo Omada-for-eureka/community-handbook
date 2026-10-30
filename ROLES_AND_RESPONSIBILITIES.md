@@ -42,7 +42,7 @@ Cet organigramme représente des responsabilités, pas une hiérarchie de valeur
 - **Permissions :** `Write` ou `Maintain` sur les dépôts concernés ; pas `Owner` par défaut.
 
 ### Responsable de domaine
-Exemples : Python, web, cybersécurité, IA, DevOps.
+Exemples : Python, web, réseaux-systèmes-télécoms, cybersécurité, IA, DevOps.
 - **Mission :** animer un domaine, identifier les ressources, proposer des ateliers, orienter les membres.
 - **Permissions :** pas de droits globaux ; contribution aux dépôts concernés.
 
