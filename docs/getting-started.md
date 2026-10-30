@@ -4,7 +4,7 @@ Bienvenue ! Voici les étapes pour trouver ta place.
 
 ## 1. Rejoindre les espaces
 
-- **Discord :** [DISCORD_INVITE] — discussions, entraide, annonces.
+- **Discord :** https://discord.gg/GzT3tE8MHD — discussions, entraide, annonces.
 - **GitHub :** https://github.com/Omada-for-eureka — ressources, projets, activités, règles.
 
 ## 2. Premiers pas sur Discord

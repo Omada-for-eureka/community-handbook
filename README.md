@@ -11,7 +11,7 @@ organiser des activités techniques ouvertes à tous les membres.
 
 ## Participer
 
-- Rejoindre Discord : [DISCORD_INVITE]
+- Rejoindre Discord : https://discord.gg/GzT3tE8MHD
 - Découvrir les ressources : https://github.com/Omada-for-eureka/resources
 - Découvrir les projets : https://github.com/Omada-for-eureka/community-projects
 - Consulter les activités : https://github.com/Omada-for-eureka/activities
