@@ -8,7 +8,7 @@
 > **Langue :** français\
 > **Nom de la communauté :** `Omada for eureka`\
 > **Organisation GitHub :** `Omada-for-eureka`\
-> **Serveur Discord :** `[NOM_SERVEUR_DISCORD]`\
+> **Serveur Discord :** `Omada for eureka`\
 > **Responsable du déploiement :** `[RESPONSABLE]`\
 > **Date de lancement cible :** `[DATE]`
 
