@@ -2,7 +2,7 @@
 
 Discord est le lieu de discussion et d'animation. Les documents de référence et livrables durables sont conservés sur GitHub.
 
-Serveur : Omada for eureka — invitation : [DISCORD_INVITE]
+Serveur : Omada for eureka — invitation : https://discord.gg/GzT3tE8MHD
 
 ## Catégories et salons
 
