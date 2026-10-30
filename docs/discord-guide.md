@@ -56,9 +56,11 @@ Les rôles de domaine identifient les centres d'intérêt et ne donnent aucune p
 - `@everyone` : salons d'accueil uniquement.
 - `Nouveau membre` : présentations et salons de démarrage.
 - `Membre` : salons communautaires.
-- `Contributeur`, `Mentor` : rôles de reconnaissance, sans privilège global.
-- `Responsable d'activité` : publication dans les salons d'activités.
-- `Mainteneur` : accès à `#maintenance-github`.
+- `Contributeur` : rôle de reconnaissance, sans privilège.
+- `Mentor` : épingler les bonnes réponses et gérer les fils dans `#entraide` et `03・APPRENTISSAGE`.
+- `Responsable de domaine` : créer des événements (ateliers) ; gérer les messages, épingles et fils dans `03・APPRENTISSAGE`.
+- `Responsable d'activité` : créer et gérer les événements, couper les micros pendant un atelier ; publier dans `#annonces` et `#calendrier` (avec mention @everyone dans `#annonces`) ; gérer les messages, épingles et fils dans `04・ACTIVITES`.
+- `Mainteneur` : accès à `#maintenance-github`, publication dans `#github-updates` ; gérer les messages, épingles et fils dans `02・RESSOURCES`.
 - `Modérateur` : permissions de modération nécessaires.
 - `Administrateur` : administration du serveur selon ses responsabilités.
 - `Fondateur` : gestion complète, réservée aux personnes indispensables.
